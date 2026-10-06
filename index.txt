@@ -1,0 +1,10 @@
+DAY 1 - Initiating folder
+- Create folder on desktop. Create subfolder if necessary.
+- Open folder with vs code.
+- On GitHub, create a new repository and link
+- Create your masterfile in the folder on the vscode
+    - git Init
+    - git remote add origin repositoryurl
+    - git add .
+    - git commit -m "third practice session"
+    - git push -u origin masterfile
